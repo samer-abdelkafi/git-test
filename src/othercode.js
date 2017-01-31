@@ -4,3 +4,8 @@
 console.log('start');
 
 alert('alert');
+
+alert('alert f1');
+
+
+alert('alert f2');

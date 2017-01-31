@@ -2,3 +2,5 @@
 
 
 console.log('start');
+
+alert('alert');

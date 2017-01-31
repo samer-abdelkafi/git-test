@@ -8,7 +8,6 @@ alert('alert');
 alert('alert f1');
 
 /*************** */
-
 /**** user1 code */
 alert('alert f2');
 
